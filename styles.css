@@ -103,7 +103,7 @@
 .join {
   padding: 7px 16px;
   border: none;
-  background: black;
+  background: rgb(255, 0, 0);
   color: white;
   border-radius: 20px;
   font-weight: 600;
