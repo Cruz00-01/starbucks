@@ -10,7 +10,6 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 40px;
-  width: 100%;
   border-bottom: 1px solid #ddd;
   background-color: #fff;
 }
@@ -25,7 +24,7 @@
   font-family: Arial, sans-serif;
   gap: 15px;
   height: 80px;
-  width: 1550px;
+  width: 100%;
 
 }
 
